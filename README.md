@@ -1,2 +1,9 @@
 # Frases Do Dia
-Projeto do app "Frases do dia", implementado em Flutter como parte do curso da Udemy
+App que exibe frases "motivacionais" para você começar o seu dia com um choque de realidade. :)
+
+## Snapshots
+<img src="art/frases_start.png"/>
+
+<img src="art/frases_1.png"/>
+
+<img src="art/frases_2.png"/>
